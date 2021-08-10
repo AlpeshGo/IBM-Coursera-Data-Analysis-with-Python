@@ -6,3 +6,4 @@
 |3.|[Jupyter Notebook3](https://github.com/AlpeshGo/IBM-Coursera-Data-Analysis-with-Python/blob/main/Week%203(EDA)/exploratory-data-analysis.ipynb)|Explore features or charecteristics to predict price of car|
 |4.|[Jupyter Notebook4](https://github.com/AlpeshGo/IBM-Coursera-Data-Analysis-with-Python/blob/main/Week%204%20(Linear%2C%20Muliple%20and%20Polynomial%20regression)/model-development.ipynb)|Develop prediction models by Linear, Multiple and Polynomial regression|
 |5.|[Jupyter Notebook5](https://github.com/AlpeshGo/IBM-Coursera-Data-Analysis-with-Python/blob/main/Week%205/model-evaluation-and-refinement.ipynb)|Model Evaluation, Over-fitting, Under-fitting and Model Selection, Ridge Regression, Grid Search|
+|6.|[Jupyter Notebook5](https://github.com/AlpeshGo/IBM-Coursera-Data-Analysis-with-Python/blob/main/Graded%20Assignment(House%20Sales)/Data%20Analysis%20with%20Python%20Final%20Assessment.ipynb)| Grades Assignment|
